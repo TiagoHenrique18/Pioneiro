@@ -29,18 +29,18 @@ a{
 }
 
 a:hover{
-    color: rgb(132, 14, 201);
+    color: #611CFC;
     transition: 0.3 all;
 }
 
 #ja-tenho-conta{
-    border: 2px solid rgb(132, 14, 201);
+    border: 2px solid #611CFC;
     padding: 10px;
     border-radius: 15px;
 }
 
 #ja-tenho-conta:hover{
-    background-color: rgb(132, 14, 201);
+    background-color: #611CFC;
     color: white;
 }
 
@@ -60,7 +60,7 @@ h2{
 }
 
 span{
-    color: rgb(132, 14, 201);
+    color: #611CFC;
 }
 
 p{
@@ -82,7 +82,7 @@ form{
 form [type="submit"]{
     height: 50px;
     width: 50%;
-    background-color: rgb(132, 14, 201);
+    background-color: #611CFC;
     color: white;
     font-weight: bold;
 }
